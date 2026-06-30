@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 3rd-year **B.Tech in Information Technology** student at SVKM Institute of Technology, Dhule
-- 💻 I build full-stack web & mobile apps with a focus on real-world, practical solutions
+- 💻 I build full-stack web with a focus on real-world, practical solutions
 - 🌱 Currently exploring AI-powered features (chatbots, recommendation systems) in my projects
 - 🛠️ Recently built **VaxCare AI** — a multilingual vaccination chatbot for child healthcare tracking
 - 📫 Reach me at **joshichaitanya58@gmail.com**
@@ -35,9 +35,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 **Backend & Database**
