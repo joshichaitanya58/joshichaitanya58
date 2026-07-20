@@ -14,11 +14,18 @@
 
 ## 🧭 About Me
 
-- 🎓 3rd-year **B.Tech in Information Technology** student at SVKM Institute of Technology, Dhule
-- 💻 I design and ship **full-stack products** — web, mobile, and database-driven systems — with a focus on practical, deployable solutions
-- 🤖 Currently exploring **AI-powered features**: conversational agents, recommendation systems, and multilingual chatbots
-- 🚀 Recently shipped **VaxCare AI**, a multilingual chatbot for child vaccination tracking, as part of a full production-style monorepo
-- 📫 Reach me at **joshichaitanya58@gmail.com**
+🎓 **B.Tech (Information Technology) | Student** at **SVKM Institute of Technology, Dhule**
+
+💻 Passionate **Full-Stack Developer** with experience building modern **web, mobile, and database-driven applications**, focused on creating scalable, user-friendly, and production-ready solutions.
+
+🤖 Exploring **Artificial Intelligence** by integrating conversational AI, multilingual chatbots, recommendation systems, and intelligent automation into real-world applications.
+
+🚀 Built ConvAI — a multilingual  AI chatbot, secure authentication, and a production-style full-stack architecture.
+
+🌱 Currently expanding expertise in **Python, Flask**, MySQL, MongoDB, REST APIs, and AI-powered application development.
+
+📫 **Email:** [joshichaitanya58@gmail.com](mailto:joshichaitanya58@gmail.com)
+
 
 <br>
 
@@ -39,8 +46,6 @@
 
 **Frontend**
 <p>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -51,8 +56,8 @@
 
 **Backend & Database**
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -74,13 +79,12 @@
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 1 | **[VaxCare AI — Conversational Chatbot](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Multilingual conversational AI assistant for healthcare Q&A, built into the Vaccine Track platform | React Native, Node.js, NLP |
-| 2 | **[Vaccine Track](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Full-stack child vaccination tracker with 4 user roles (Parent/Doctor/Staff/Admin), OTP auth, NIP-based schedules, QR certificates & analytics dashboard | React Native, Node.js, MySQL |
-| 3 | **[Smart Shoppy](https://github.com/joshichaitanya58/smart_shoppy)** | AI-powered price comparison platform across e-commerce sites | Python, Flask, MySQL |
-| 4 | **[JaldiTrip](https://github.com/joshichaitanya58/jaldiTrip)** | Travel booking platform for flights, hotels, trains & holiday packages | JavaScript, HTML, CSS |
-| 5 | **[Hospital DBMS](https://github.com/joshichaitanya58/Hospital-Database-Management-System)** | Management system for patients, doctors & appointment scheduling | PHP, MySQL |
-| 6 | **[SwiftCart](https://github.com/joshichaitanya58/Angular_Project_-SwiftCart-)** | E-commerce storefront frontend | Angular |
-| 7 | **[Personal Portfolio](https://github.com/joshichaitanya58/My_Portfolio)** | Personal portfolio site with certificates & project showcase | HTML, CSS, JS, Bootstrap |
+| 1 | **[ConvAI — Conversational Chatbot](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Multilingual conversational AI assistant for Q&A, built using AI Models | Python(Flask), JavaScript, HTMS, CSS, API's, MongoDB |
+| 2 | **[Vaccine Track](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Full-stack child vaccination tracker with 3 user roles (Parent/Doctor/Admin), OTP auth, NIP-based schedules, QR certificates & analytics dashboard | Python(Flask), HTML, CSS, JavaScript, MySQL, API's |
+| 3 | **[Smart Shoppy](https://github.com/joshichaitanya58/smart_shoppy)** | AI-powered price comparison platform across e-commerce sites | Python(Flask), HTML, CSS, JavaScript, MySQL, API's |
+| 4 | **[JaldiTrip](https://github.com/joshichaitanya58/jaldiTrip)** | Travel booking platform for flights, hotels, trains & holiday packages | HTML, CSS, JavaScript, Node.js, MySQL, API's |
+| 5 | **[Hospital DBMS](https://github.com/joshichaitanya58/Hospital-Database-Management-System)** | Management system for patients, doctors & appointment scheduling | HTML, CSS, PHP, MySQL |
+| 6 | **[Personal Portfolio](https://github.com/joshichaitanya58/My_Portfolio)** | Personal portfolio site with certificates & project showcase | HTML, CSS, JS, Bootstrap |
 
 <br>
 
