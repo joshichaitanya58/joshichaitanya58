@@ -80,9 +80,9 @@
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
 | 1 | **[ConvAI — Conversational Chatbot](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Multilingual conversational AI assistant for Q&A, built using AI Models | Python(Flask), JavaScript, HTMS, CSS, API's, MongoDB |
-| 2 | **[Vaccine Track](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Full-stack child vaccination tracker with 3 user roles (Parent/Doctor/Admin), OTP auth, NIP-based schedules, QR certificates & analytics dashboard | Python(Flask), HTML, CSS, JavaScript, MySQL, API's |
+| 2 | **[Vaccine Track](https://github.com/joshichaitanya58/child_vaccination_record_and_alert_system)** | Full-stack child vaccination tracker with 3 user roles (Parent/Doctor/Admin), OTP auth, NIP-based schedules, QR certificates & analytics dashboard with ChatBot | Python(Flask), HTML, CSS, JavaScript, MySQL, API's |
 | 3 | **[Smart Shoppy](https://github.com/joshichaitanya58/smart_shoppy)** | AI-powered price comparison platform across e-commerce sites | Python(Flask), HTML, CSS, JavaScript, MySQL, API's |
-| 4 | **[JaldiTrip](https://github.com/joshichaitanya58/jaldiTrip)** | Travel booking platform for flights, hotels, trains & holiday packages | HTML, CSS, JavaScript, Node.js, MySQL, API's |
+| 4 | **[JaldiTrip](https://github.com/joshichaitanya58/jaldiTrip)** | Travel booking platform for flights, hotels, trains & holiday packages with ChatBot | HTML, CSS, JavaScript, Node.js, MySQL, API's |
 | 5 | **[Hospital DBMS](https://github.com/joshichaitanya58/Hospital-Database-Management-System)** | Management system for patients, doctors & appointment scheduling | HTML, CSS, PHP, MySQL |
 | 6 | **[Personal Portfolio](https://github.com/joshichaitanya58/My_Portfolio)** | Personal portfolio site with certificates & project showcase | HTML, CSS, JS, Bootstrap |
 
