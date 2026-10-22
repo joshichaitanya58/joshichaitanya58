@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Chaitanya Vijay Joshi 👋
+# Hi, I'm Chaitanya Joshi 👋
 
 ### Software Developer | Python Developer | Web Developer
 
